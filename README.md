@@ -1,2 +1,2 @@
-# Relogio-D
-Relógio Dig. 
+# Relogio
+Relógio Digital. 
